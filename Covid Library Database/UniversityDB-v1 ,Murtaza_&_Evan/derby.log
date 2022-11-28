@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon May 09 18:53:04 EDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0180-ab06-b013-000007a34000 
+on database directory /Users/evanuhland/Downloads/UniversityDB-v1/db/studentdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/Users/evanuhland/Downloads/UniversityDB-v1/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=/Users/evanuhland/Downloads/UniversityDB-v1
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
